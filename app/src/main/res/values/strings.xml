@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScaleImgSharedElementDemo</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="transition_name">image_transition</string>
+</resources>
